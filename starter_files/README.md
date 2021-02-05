@@ -10,12 +10,19 @@ We will also create, publish, and consume a pipeline.
 Project main steps
 
 Authentication
+
 Automated ML Experiment
+
 Deploy the best model
+
 Enable logging
+
 Swagger Documentation
+
 Consume model endpoints
+
 Create and publish a pipeline
+
 Documentation
 
 ![](main_steps.png)
