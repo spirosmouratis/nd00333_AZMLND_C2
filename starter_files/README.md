@@ -90,8 +90,25 @@ In the screenshot we can see the output of the model
 ### Step 7
 
 After we have completed everything once and in manual way the only logical next step is to create a pipeline to automate all the steps.
+In order to do that we have been provided already with a .ipynb file with the necessary code.
+After made a few adjustments for the experiments names and the cluster names in the notebook we can see the run details Widget
 
+![](Step7Widget)
 
+And that the run is complete 
+
+![](Step7Complete)
+
+Bank Marketing dataset with the AutoML module
+
+![](Step7DataMod1)
+![](Step7DataMod2)
+
+Information about the published endpoint of the pipeline
+
+![](Step7Endpoint1.png)
+![](Step7Endpoint2.png)
+![](Step7Endpoint3.png)
 
 
 ## Screen Recording
