@@ -93,16 +93,16 @@ After we have completed everything once and in manual way the only logical next 
 In order to do that we have been provided already with a .ipynb file with the necessary code.
 After made a few adjustments for the experiments names and the cluster names in the notebook we can see the run details Widget
 
-![](Step7Widget)
+![](Step7Widget.png)
 
 And that the run is complete 
 
-![](Step7Complete)
+![](Step7Complete.png)
 
 Bank Marketing dataset with the AutoML module
 
-![](Step7DataMod1)
-![](Step7DataMod2)
+![](Step7DataMod1.png)
+![](Step7DataMod2.png)
 
 Information about the published endpoint of the pipeline
 
