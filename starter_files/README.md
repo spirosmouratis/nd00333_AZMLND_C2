@@ -97,7 +97,7 @@ After made a few adjustments for the experiments names and the cluster names in 
 
 And that the run is complete 
 
-![](Step7Complete.png)
+![](Step7RunComplete.png)
 
 Bank Marketing dataset with the AutoML module
 
